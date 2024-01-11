@@ -1,0 +1,21 @@
+{
+  "name": "absclussprojekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "helmet": "^6.1.5",
+    "multer": "^1.4.5-lts.1",
+    "uuid4": "^2.0.3"
+  }
+}
